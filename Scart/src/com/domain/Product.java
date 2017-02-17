@@ -1,5 +1,5 @@
 package com.domain;
-
+/* Remote Repository*/
 public class Product {
 	
 	private String productName;
